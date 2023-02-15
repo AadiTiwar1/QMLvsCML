@@ -14,7 +14,7 @@ Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equiv
  
 # Where I am right now
  2/13/23 - Writing this outline in hopes that it actually helps me in completing this project in time lmfao <br>
- 2/14/23 - Decided on using Intel as our downwards trend, Apple as our consistent trend, Synopsis as our upwards trend. We are only considering last 2 years for all of these stocks, might play around with that number later. <br>
+ 2/14/23 - Decided on using Intel as our downwards trend, Apple as our consistent trend, Synopsis as our upwards trend. We are only considering last 2 years for all of these stocks, might play around with that number later. Also got LSTM and QLSTM to work, but QLSTM takes a ton of time to train, will need to look into that tomorrow<br>
  
 # Where I hope to be at certain times
  2/14/23 Finish choosing out the 3 different stocks we're gonna use <br>
