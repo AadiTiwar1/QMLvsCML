@@ -1,7 +1,7 @@
 # QMLvsCML
 
 # Rough outline of project
-Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equivalents for these models, that are identical in every metric except the type of computer it's ran on so that the only real difference is whether it's a Quantum or Classical ML model. You then give these models tasks like forecasting Stock Prices and see the differences in the time it takes for each to converge, RMSE accuracy, other metrics. After all of this, we will be able to determine what quanifiable advantage QML has over CML - does it run faster, converge faster, give more accurate RMSE's because of superpositions, etc.
+Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equivalents for these models, that are identical in every metric except the type of computer it's ran on so that the only real difference is whether it's a Quantum or Classical ML model. You then give these models tasks like forecasting Stock Prices and see the differences in the time it takes for each to converge, RMSE accuracy, other metrics. After all of this, we will be able to determine what quantifiable advantage QML has over CML - does it run faster, converge faster, give more accurate RMSE's because of superpositions, etc.
 
 # How I plan to make this project (Detailed)
  1. Research LSTM with GAN because I am not familiar with GAN, I'm only familiar with LSTM
@@ -16,6 +16,7 @@ Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equiv
  2/13/23 - Writing this outline in hopes that it actually helps me in completing this project in time lmfao <br>
  2/14/23 - Decided on using Intel as our downwards trend, Apple as our consistent trend, Synopsis as our upwards trend. We are only considering last 2 years for all of these stocks, might play around with that number later. Also got LSTM and QLSTM to work, but QLSTM takes a ton of time to train, will need to look into that tomorrow<br>
  2/15/23 - Did nearly nothing today. Planning to implement CUDA so that code runs faster or something to fix QLSTM problem, will research tmrw. Still on track since the LSTM & QLSTM are working, just QLSTM takes a long time to run. Also need to rewrite data part. <br>
+ 2/16/23 - Did nothing
  
 # Where I hope to be at certain times
  2/14/23 Finish choosing out the 3 different stocks we're gonna use <br>
