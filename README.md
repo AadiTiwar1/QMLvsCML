@@ -20,7 +20,7 @@ Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equiv
  2/17/23 - Rewrote some of the LSTM and QLSTM parts so that it runs with the data we want it to run with. Couldn't get the QLSTM-GAN or LSTM-GAN working today, couldn't fix the QLSTM time-to-run problem either. Break just started, so I can make up for being behind soon. <br>
  2/18/23 - Started working on the LSTM-GAN and was able to fix alot of the misnamed files, code is running and is providing good results now. Still need to implement the Quantum counterpart, hopefully will be done by tomorrow. <br>
  2/19/23 - Got LSTM-GAN to work completely which I was happy about. Got a very good start on the QLSTM-GAN. Might be done by tomorrow. <br>
- 
+ 2/20/23 - Got a good start on QLSTM-GAN, now getting errors which is much further than we were before. Might be done in 2 days since all of tomorrow is college tours. <br>
 # Where I hope to be at certain times
  2/14/23 Finish choosing out the 3 different stocks we're gonna use <br>
  2/15/23 Have functioning LSTM and QLSTM models <br>
