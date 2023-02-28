@@ -27,6 +27,7 @@ Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equiv
  2/24/23 - Trying to fix GAN errors, given up for now, going to work on abstract tomorrow <br>
  2/25/23 - Finished a good rough draft of abstract that we can change anytime later. Also choosing out the third model we can implement, either  https://github.com/emilystamm/crypto_time_series_quantum, https://github.com/The-Singularity-Research/FinTech-Time-Series <br>
  2/26/23 -  Decided to go with https://github.com/emilystamm/crypto_time_series_quantum. Very minor problems in running the code, have finalized this as our 3rd model. Will have it working 100% by the end of tomorrow, and will try another shot at QLSTM GAN, asking people in Unitary Fund server for help during office hours or something. Also will update abstract tomorrow. <br>
+ 2/27/23 - Got Quanvolutional NN to work, although the accuracy isnt that great. Whatever, I can fix it tomorrow or just ignore it entirely cuz who cares lmfao. Realistically though I'll try to fix it and have to change the data to Apple CSV. I contacted Mr. Dulal to get help with QLSTM-GAN and he forwarded me to Mr. Tan, hopefully I get a result from either of them tomorrow and we can resume work on that. <br>
 
 # Where I hope to be at certain times
  2/14/23 Finish choosing out the 3 different stocks we're gonna use <br>
