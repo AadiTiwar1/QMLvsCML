@@ -30,6 +30,7 @@ Have 3 CML models: LSTM, GAN using LSTM, one more tbd. Then create Quantum equiv
  2/27/23 - Got Quanvolutional NN to work, although the accuracy isnt that great. Whatever, I can fix it tomorrow or just ignore it entirely cuz who cares lmfao. Realistically though I'll try to fix it and have to change the data to Apple CSV. I contacted Mr. Dulal to get help with QLSTM-GAN and he forwarded me to Mr. Tan, hopefully I get a result from either of them tomorrow and we can resume work on that. <br>
  2/28/23 - Changed data to Apple CSV. Got a good run but tried redoing it and lost it lol. It's fine, I can just keep having it run in the background tomorrow. Got response from Mr. Tan, something about forward keyword being used for pre generated models. Going to work on QLSTM-GAN tomorrow.
  3/1/23  - Still haven't gotten good values for QNN, but again just going to let it run in the background. Decided to change QLSTM-GAN generator from QLSTM to something else from Qiskit that's already pretrained, maybe that will solve the problem of having to deal with trainning keyword that forward() method seems to hate. <br>
+ 3/2/23  - Got QNN to finally give decent results. Found a good time series gan using pytorch I'll implement tomorrow. P productive day. <br>
 # Where I hope to be at certain times
  2/14/23 Finish choosing out the 3 different stocks we're gonna use <br>
  2/15/23 Have functioning LSTM and QLSTM models <br>
